@@ -1,0 +1,16 @@
+<svg id="group-7" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="shape" transform="translate(10 13)">
+    <g id="Group_14" data-name="Group 14" transform="translate(-10 -13)">
+      <g id="Group_13" data-name="Group 13">
+        <g id="Group_12" data-name="Group 12">
+          <rect id="Rectangle_2" data-name="Rectangle 2" width="48" height="48" rx="10" fill="#edf1f7"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_16" data-name="Group 16">
+      <g id="Group_15" data-name="Group 15">
+        <path id="Path_25" data-name="Path 25" d="M5.236,16.4V9.6l8.12,3.29a1.693,1.693,0,0,0,1.278,0l8.324-3.373V16.4a.82.82,0,0,1-.07.325c0,.01-1.593,3.732-8.71,4.272a.863.863,0,0,1-.144,0c-6.472-.486-8.382-3.6-8.683-4.18a.824.824,0,0,1-.115-.42ZM.52,5.276,13.514.062a.853.853,0,0,1,.64,0L27.147,5.276a.813.813,0,0,1,.335,1.275V14.4l1.39,2.17a.823.823,0,0,1-.715,1.255l-3.038,0a.823.823,0,0,1-.688-1.3L25.794,14.4V7.336l-11.64,4.671a.863.863,0,0,1-.64,0L.52,6.793A.813.813,0,0,1,.52,5.276Z" fill="#565a7c" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

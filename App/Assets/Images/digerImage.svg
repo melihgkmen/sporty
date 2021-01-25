@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <rect id="5m1n53ikpa" width="48" height="48" x="0" y="0" rx="10"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-32 -488) translate(16 472) translate(16 16)">
+                    <mask id="kiys57t9pb" fill="#fff">
+                        <use xlink:href="#5m1n53ikpa"/>
+                    </mask>
+                    <use fill="#EDF1F7" xlink:href="#5m1n53ikpa"/>
+                    <path fill="#565A7C" d="M30.926 18.516l-3.87-3.87c-.095-.096-.209-.181-.342-.267v4.478h4.478c-.085-.133-.17-.247-.266-.341zm-4.515 1.555c-.503 0-.911-.407-.911-.91V14h-7.59c-.502 0-.91.408-.91.91v19.062c0 .503.408.91.91.91h12.75c.504 0 .911-.407.911-.91v-13.9h-5.16zm1.518 8.983c0 .17-.133.303-.304.303h-6.679c-.17 0-.303-.133-.303-.303v-.608c0-.17.133-.303.303-.303h6.679c.17 0 .304.133.304.303v.608zm0-2.429c0 .17-.133.304-.304.304h-6.679c-.17 0-.303-.133-.303-.304v-.607c0-.17.133-.304.303-.304h6.679c.17 0 .304.133.304.304v.607zm0-2.429c0 .171-.133.304-.304.304h-6.679c-.17 0-.303-.133-.303-.304v-.607c0-.17.133-.303.303-.303h6.679c.17 0 .304.133.304.303v.607z" mask="url(#kiys57t9pb)"/>
+                    <circle cx="32.5" cy="35.5" r="6" fill="#565A7C" stroke="#EDF1F7" mask="url(#kiys57t9pb)"/>
+                    <text fill="#EDF1F7" font-family="Poppins-SemiBold, Poppins" font-size="10" font-weight="500" letter-spacing="1.2" mask="url(#kiys57t9pb)">
+                        <tspan x="29" y="34">…</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
