@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">sporty</string>
+    <string name="app_name">Limasol Online</string>
+    <string name="facebook_app_id">2659789747640933</string>
+    <string name="fb_login_protocol_scheme">fb2659789747640933</string>
 </resources>

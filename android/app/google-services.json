@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "988915188931",
+    "firebase_url": "https://limasolonlinedynamics.firebaseio.com",
+    "project_id": "limasolonlinedynamics",
+    "storage_bucket": "limasolonlinedynamics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988915188931:android:601274c1ba524e65",
+        "android_client_info": {
+          "package_name": "com.waps.limon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988915188931-4kdsoutpddpp448i6qitcr391a5i7dra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp4A20_7dUypBvwPFLZexNvTHhOmMOdp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988915188931-4kdsoutpddpp448i6qitcr391a5i7dra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

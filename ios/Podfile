@@ -8,6 +8,8 @@ target 'sporty' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
   target 'sportyTests' do
     inherit! :complete
     # Pods for testing
@@ -24,7 +26,7 @@ target 'sporty' do
 end
 
 target 'sporty-tvOS' do
-  # Pods for sporty-tvOS
+  # Pods for LimonMobilYeni-tvOS
 
   target 'sporty-tvOSTests' do
     inherit! :search_paths
